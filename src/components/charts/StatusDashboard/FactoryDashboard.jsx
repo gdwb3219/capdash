@@ -6,6 +6,8 @@ import TrafficLight from "./TrafficLight";
 import AreaCard from "./AreaCard";
 import AreaDetail from "./AreaDetail";
 import "../../../styles/components/charts/StatusDashboard/FactoryDashboard.css";
+import dummy_data from "../../../data/dummy_data.json";
+import target_data from "../../../data/target_data.json";
 
 function FactoryDashboard() {
   const [targets, setTargets] = useState([]);
@@ -23,6 +25,9 @@ function FactoryDashboard() {
     }
     load();
   }, []);
+
+  console.log("data", actuals, targets);
+  console.log("new_data", dummy_data, target_data);
 
   const areaSummaries = useMemo(() => {
     if (!actuals.length || !targets.length) return {};
