@@ -1,4 +1,5 @@
 import TrafficLight from "./TrafficLight";
+import "../../../styles/components/charts/StatusDashboard/AreaCard.css";
 
 function AreaCard({ area, counts, onClick }) {
   // counts = { green: n, yellow: n, red: n }
