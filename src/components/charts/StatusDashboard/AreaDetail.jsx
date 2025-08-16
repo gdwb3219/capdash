@@ -1,57 +1,8 @@
 import React, { useMemo } from "react";
 import TrafficLight from "./TrafficLight";
 import { judgeByTarget } from "./Utilities";
+import GridTable from "./GridTable"; // GridTable을 별도 컴포넌트로 import
 import "../../../styles/components/charts/StatusDashboard/FactoryDashboard.css";
-
-// AreaDetail.jsx
-// - 실제 'dummy_data' (actuals)와 'target_data' 구조에 맞춰 동작하도록 수정한 컴포넌트입니다.
-// - 주요 변경점:
-//   1) actuals는 장비(EQP_ID) 단위 월별 집계(TWH_MONTH, OPER_MONTH 등)를 포함하므로,
-//      같은 MONTH 내에서는 장비별 합계를 먼저 구한 뒤 비율(OPER/TWH 등)을 계산합니다.
-//   2) MONTH 포맷이 'YYYYMM' 또는 숫자(예: 202501)인 경우에도 정렬/처리 가능합니다.
-//   3) target_data는 중첩 객체(targets[AREA][SITE][OPER]) 형식이므로 그에 맞춰 접근합니다.
-//   4) legacy(예전) 형태인 targets 배열도 지원하도록 유연하게 처리합니다.
-
-function GridTable({ rows }) {
-  // rows: [{ factorLabel, target, latest, avg3, avg6, judgement }]
-  const fmt = (v) => (v == null ? "-" : (v * 100).toFixed(2) + "%");
-
-  return (
-    <table className='grid-table'>
-      <thead>
-        <tr>
-          <th>Factor</th>
-          <th>Target</th>
-          <th>Latest</th>
-          <th>3M Avg</th>
-          <th>6M Avg</th>
-          <th>판단</th>
-          <th>신호등</th>
-        </tr>
-      </thead>
-      <tbody>
-        {rows.map((r, i) => (
-          <tr key={i}>
-            <td>{r.factorLabel}</td>
-            <td>
-              {r.target != null ? (r.target * 100).toFixed(2) + "%" : "-"}
-            </td>
-            <td>{fmt(r.latest)}</td>
-            <td>{fmt(r.avg3)}</td>
-            <td>{fmt(r.avg6)}</td>
-            <td>
-              {r.judgement?.label ??
-                (r.target == null ? "목표값 없음" : "데이터 부족")}
-            </td>
-            <td>
-              <TrafficLight color={r.judgement?.color ?? "gray"} />
-            </td>
-          </tr>
-        ))}
-      </tbody>
-    </table>
-  );
-}
 
 export default function AreaDetail({ area, targets, actuals, onBack }) {
   // 안전한 필드 접근 헬퍼 - 다양한 케이스(대문자/소문자)를 모두 지원
@@ -159,7 +110,6 @@ export default function AreaDetail({ area, targets, actuals, onBack }) {
         ← Back
       </button>
       <h2>Area {area} 상세</h2>
-
       {siteOperGroups.map((g, idx) => {
         const factors = [
           { key: "oper", label: "OPER", targetKey: "OPER_TARGET" },
@@ -192,8 +142,8 @@ export default function AreaDetail({ area, targets, actuals, onBack }) {
             <h3>
               {g.Site} / {g.Oper}
             </h3>
-
-            <GridTable rows={rows} />
+            {/* GridTable에 site, oper 정보 전달 */}
+            <GridTable rows={rows} site={g.Site} oper={g.Oper} />
           </div>
         );
       })}

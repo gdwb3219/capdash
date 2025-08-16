@@ -1,0 +1,89 @@
+/* GridTable 관련 추가 CSS - FactoryDashboard.css에 추가하세요 */
+
+/* 클릭 가능한 행 스타일 */
+.table-row.clickable-row {
+  transition: background-color 0.2s ease;
+}
+
+.table-row.clickable-row:hover {
+  background-color: rgba(59, 130, 246, 0.05);
+  cursor: pointer;
+}
+
+/* 신호등 컨테이너 스타일 */
+.traffic-light-container {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4px;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+  min-width: 32px;
+  min-height: 32px;
+}
+
+/* 클릭 가능한 신호등 스타일 */
+.traffic-light-container.clickable {
+  cursor: pointer;
+  position: relative;
+}
+
+.traffic-light-container.clickable:hover {
+  background-color: rgba(0, 0, 0, 0.05);
+  transform: scale(1.1);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.traffic-light-container.clickable:active {
+  transform: scale(1.05);
+}
+
+/* 클릭 힌트 애니메이션 */
+.traffic-light-container.clickable::after {
+  content: "📝";
+  position: absolute;
+  top: -8px;
+  right: -8px;
+  font-size: 12px;
+  opacity: 0;
+  transition: opacity 0.2s ease;
+  background: white;
+  border-radius: 50%;
+  width: 16px;
+  height: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.traffic-light-container.clickable:hover::after {
+  opacity: 1;
+}
+
+/* 테이블 셀 패딩 조정 */
+.grid-table td:last-child {
+  padding: 8px;
+  text-align: center;
+}
+
+/* 문제가 있는 행 하이라이트 */
+.table-row:has(.traffic-light-container.clickable) {
+  border-left: 3px solid transparent;
+  transition: border-color 0.2s ease;
+}
+
+.table-row:has(.traffic-light-container.clickable):hover {
+  border-left-color: #f59e0b;
+}
+
+/* 반응형 디자인 */
+@media (max-width: 768px) {
+  .traffic-light-container.clickable::after {
+    display: none; /* 모바일에서는 힌트 아이콘 숨김 */
+  }
+
+  .grid-table td:last-child {
+    padding: 12px; /* 모바일에서 터치 영역 확대 */
+  }
+}
