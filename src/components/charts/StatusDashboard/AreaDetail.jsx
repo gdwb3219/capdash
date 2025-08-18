@@ -1,13 +1,15 @@
-import React, { useMemo } from "react";
+import React, { useState, useMemo } from "react";
 import TrafficLight from "./TrafficLight";
 import { judgeByTarget } from "./Utilities";
-import GridTable from "./GridTable"; // GridTable을 별도 컴포넌트로 import
+import GridTable from "./GridTable";
 import "../../../styles/components/charts/StatusDashboard/FactoryDashboard.css";
 
 export default function AreaDetail({ area, targets, actuals, onBack }) {
   // 안전한 필드 접근 헬퍼 - 다양한 케이스(대문자/소문자)를 모두 지원
   const field = (row, key) =>
     row?.[key] ?? row?.[key.toUpperCase()] ?? row?.[key.toLowerCase()];
+
+  console.log("actuals, target", actuals, targets);
 
   // siteOperGroups: [{ Site, Oper, groupRows, monthlyAggregates, targetRow, latest, avg3, avg6 }]
   const siteOperGroups = useMemo(() => {
@@ -103,50 +105,96 @@ export default function AreaDetail({ area, targets, actuals, onBack }) {
     });
   }, [area, actuals, targets]);
 
-  // 렌더
+  // Site별로 그룹화
+  const siteGroups = useMemo(() => {
+    const groups = {};
+    siteOperGroups.forEach((g) => {
+      if (!groups[g.Site]) {
+        groups[g.Site] = [];
+      }
+      groups[g.Site].push(g);
+    });
+    return groups;
+  }, [siteOperGroups]);
+
+  const siteNames = Object.keys(siteGroups);
+  const [activeTab, setActiveTab] = useState(siteNames[0] || "");
+
+  console.log("siteOperGroups", siteOperGroups);
+
+  if (siteNames.length === 0) {
+    return (
+      <div className="detail">
+        <button className="back-btn" onClick={onBack}>
+          ← Back
+        </button>
+        <h2>Area {area} 상세</h2>
+        <div>데이터가 없습니다.</div>
+      </div>
+    );
+  }
+
   return (
-    <div className='detail'>
-      <button className='back-btn' onClick={onBack}>
+    <div className="detail">
+      <button className="back-btn" onClick={onBack}>
         ← Back
       </button>
       <h2>Area {area} 상세</h2>
-      {siteOperGroups.map((g, idx) => {
-        const factors = [
-          { key: "oper", label: "OPER", targetKey: "OPER_TARGET" },
-          { key: "nowip", label: "NOWIP", targetKey: "NOWIP_TARGET" },
-          { key: "loss", label: "LOSS", targetKey: "LOSS_TARGET" },
-        ];
 
-        const rows = factors.map((f) => {
-          const target = g.targetRow ? g.targetRow[f.targetKey] : null;
-          const latest = g.latest ? g.latest[f.key] : null;
-          const avg3 = g.avg3 ? g.avg3[f.key] : null;
-          const avg6 = g.avg6 ? g.avg6[f.key] : null;
-          const judgement =
-            target != null
-              ? judgeByTarget(avg3, avg6, target)
-              : { color: "gray", label: "목표값 없음" };
-          return {
-            factorKey: f.key,
-            factorLabel: f.label,
-            target,
-            latest,
-            avg3,
-            avg6,
-            judgement,
-          };
-        });
+      {/* 탭 헤더 */}
+      <div className="tab-header">
+        {siteNames.map((siteName) => (
+          <button
+            key={siteName}
+            className={`tab-button ${activeTab === siteName ? "active" : ""}`}
+            onClick={() => setActiveTab(siteName)}
+          >
+            {siteName}
+          </button>
+        ))}
+      </div>
 
-        return (
-          <div className='site-oper-card' key={idx}>
-            <h3>
-              {g.Site} / {g.Oper}
-            </h3>
-            {/* GridTable에 site, oper 정보 전달 */}
-            <GridTable rows={rows} site={g.Site} oper={g.Oper} />
+      {/* 탭 컨텐츠 */}
+      <div className="tab-content">
+        {activeTab && siteGroups[activeTab] && (
+          <div className="site-operations">
+            {siteGroups[activeTab].map((g, idx) => {
+              const factors = [
+                { key: "oper", label: "OPER", targetKey: "OPER_TARGET" },
+                { key: "nowip", label: "NOWIP", targetKey: "NOWIP_TARGET" },
+                { key: "loss", label: "LOSS", targetKey: "LOSS_TARGET" },
+              ];
+
+              const rows = factors.map((f) => {
+                const target = g.targetRow ? g.targetRow[f.targetKey] : null;
+                const latest = g.latest ? g.latest[f.key] : null;
+                const avg3 = g.avg3 ? g.avg3[f.key] : null;
+                const avg6 = g.avg6 ? g.avg6[f.key] : null;
+                const judgement =
+                  target != null
+                    ? judgeByTarget(avg3, avg6, target)
+                    : { color: "gray", label: "목표값 없음" };
+                return {
+                  factorKey: f.key,
+                  factorLabel: f.label,
+                  target,
+                  latest,
+                  avg3,
+                  avg6,
+                  judgement,
+                };
+              });
+
+              return (
+                <div className="oper-card" key={idx}>
+                  <h3>{g.Oper}</h3>
+                  <GridTable rows={rows} site={g.Site} oper={g.Oper} />
+                </div>
+              );
+            })}
           </div>
-        );
-      })}
+        )}
+      </div>
     </div>
   );
 }
