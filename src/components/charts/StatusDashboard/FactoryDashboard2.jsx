@@ -1,5 +1,5 @@
 import React, { useMemo, useState } from "react";
-import { computeAveragesForSeries, judgeByTarget } from "./Utilities";
+import { judgeByTarget } from "./Utilities";
 import TrafficLight from "./TrafficLight";
 import AreaCard from "./AreaCard";
 import AreaDetail from "./AreaDetail";
@@ -72,7 +72,7 @@ function FactoryDashboard() {
 
   if (selectedArea) {
     return (
-      <div className="page">
+      <div className='page'>
         <AreaDetail
           area={selectedArea}
           targets={targets}
@@ -84,9 +84,9 @@ function FactoryDashboard() {
   }
 
   return (
-    <div className="page">
+    <div className='page'>
       <h1>공장 가동률 대시보드</h1>
-      <div className="summary-grid">
+      <div className='summary-grid'>
         {Object.keys(areaSummaries).map((area) => (
           <AreaCard
             key={area}
@@ -97,16 +97,16 @@ function FactoryDashboard() {
         ))}
       </div>
 
-      <section className="legend">
+      <section className='legend'>
         <h3>신호등 설명</h3>
-        <div className="legend-row">
-          <TrafficLight color="green" /> 양호 (평균이 목표 이상)
+        <div className='legend-row'>
+          <TrafficLight color='green' /> 양호 (평균이 목표 이상)
         </div>
-        <div className="legend-row">
-          <TrafficLight color="yellow" /> 주의 (일부만 미달)
+        <div className='legend-row'>
+          <TrafficLight color='yellow' /> 주의 (일부만 미달)
         </div>
-        <div className="legend-row">
-          <TrafficLight color="red" /> 위험 (모두 미달)
+        <div className='legend-row'>
+          <TrafficLight color='red' /> 위험 (모두 미달)
         </div>
       </section>
     </div>

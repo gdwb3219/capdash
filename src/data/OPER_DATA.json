@@ -1,0 +1,3242 @@
+[
+  {
+    "MONTH": "202501",
+    "AREA": "WT",
+    "SITE": "IC",
+    "OPER": "EPM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "503.88",
+    "VALID_MONTH": "465.35",
+    "LINR": "0.987074667"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "WT",
+    "SITE": "IC",
+    "OPER": "TEST",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "273.87",
+    "VALID_MONTH": "184.2",
+    "LINR": "0.925971205"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "WT",
+    "SITE": "IC",
+    "OPER": "WFBI",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "179.96",
+    "VALID_MONTH": "126.73",
+    "LINR": "0.951157758"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "WT",
+    "SITE": "CJ",
+    "OPER": "EPM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "460.86",
+    "VALID_MONTH": "288.16",
+    "LINR": "0.995034655"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "WT",
+    "SITE": "CJ",
+    "OPER": "TEST",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "721.54",
+    "VALID_MONTH": "38.82",
+    "LINR": "0.941070234"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "WT",
+    "SITE": "CJ",
+    "OPER": "WFBI",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "533.38",
+    "VALID_MONTH": "16.63",
+    "LINR": "0.93449027"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "WT",
+    "SITE": "WX",
+    "OPER": "EPM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "723.78",
+    "VALID_MONTH": "574.63",
+    "LINR": "0.965384899"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "WT",
+    "SITE": "WX",
+    "OPER": "TEST",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "584.58",
+    "VALID_MONTH": "365.27",
+    "LINR": "0.952527455"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "WT",
+    "SITE": "WX",
+    "OPER": "WFBI",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "583.38",
+    "VALID_MONTH": "299.59",
+    "LINR": "0.912740201"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "B/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "625.87",
+    "VALID_MONTH": "534.78",
+    "LINR": "0.981004534"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "WEC",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "601.77",
+    "VALID_MONTH": "111.25",
+    "LINR": "0.978001907"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "WSD",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "30.02",
+    "VALID_MONTH": "24.1",
+    "LINR": "0.987427062"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "D/A",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "438.17",
+    "VALID_MONTH": "209.88",
+    "LINR": "0.910033144"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "FCB",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "394.7",
+    "VALID_MONTH": "183.15",
+    "LINR": "0.935639466"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "W/B",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "660.76",
+    "VALID_MONTH": "253.61",
+    "LINR": "0.909733834"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "M/D",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "608.94",
+    "VALID_MONTH": "35.13",
+    "LINR": "0.940662404"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "SBM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "568.31",
+    "VALID_MONTH": "151.38",
+    "LINR": "0.963808802"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "S/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "15.82",
+    "VALID_MONTH": "5.54",
+    "LINR": "0.92235248"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "B/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "666.27",
+    "VALID_MONTH": "61.96",
+    "LINR": "0.984257463"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "WEC",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "587.64",
+    "VALID_MONTH": "459.54",
+    "LINR": "0.994493445"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "WSD",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "216.92",
+    "VALID_MONTH": "185.84",
+    "LINR": "0.918570797"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "D/A",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "254.24",
+    "VALID_MONTH": "226.1",
+    "LINR": "0.982624889"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "FCB",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "493.91",
+    "VALID_MONTH": "312.49",
+    "LINR": "0.977893248"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "W/B",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "441.14",
+    "VALID_MONTH": "150.44",
+    "LINR": "0.979764961"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "M/D",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "15.22",
+    "VALID_MONTH": "10.67",
+    "LINR": "0.964681038"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "SBM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "237.18",
+    "VALID_MONTH": "161.04",
+    "LINR": "0.972144663"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "S/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "298.51",
+    "VALID_MONTH": "250.4",
+    "LINR": "0.915167539"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "B/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "228.78",
+    "VALID_MONTH": "44.96",
+    "LINR": "0.974291153"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "WEC",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "606.64",
+    "VALID_MONTH": "525.1",
+    "LINR": "0.900507301"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "WSD",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "167.29",
+    "VALID_MONTH": "45.69",
+    "LINR": "0.94016899"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "D/A",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "519.33",
+    "VALID_MONTH": "198.14",
+    "LINR": "0.910442487"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "FCB",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "332.85",
+    "VALID_MONTH": "289.6",
+    "LINR": "0.991433656"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "W/B",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "226.11",
+    "VALID_MONTH": "23.28",
+    "LINR": "0.915415848"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "M/D",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "201.57",
+    "VALID_MONTH": "16.23",
+    "LINR": "0.989648212"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "SBM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "273.17",
+    "VALID_MONTH": "133.67",
+    "LINR": "0.982175404"
+  },
+  {
+    "MONTH": "202501",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "S/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "710.95",
+    "VALID_MONTH": "127.31",
+    "LINR": "0.927798134"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "WT",
+    "SITE": "IC",
+    "OPER": "EPM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "74.47",
+    "VALID_MONTH": "46.84",
+    "LINR": "0.999385742"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "WT",
+    "SITE": "IC",
+    "OPER": "TEST",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "582.53",
+    "VALID_MONTH": "565.16",
+    "LINR": "0.99893279"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "WT",
+    "SITE": "IC",
+    "OPER": "WFBI",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "441.74",
+    "VALID_MONTH": "68.17",
+    "LINR": "0.915643344"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "WT",
+    "SITE": "CJ",
+    "OPER": "EPM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "315.69",
+    "VALID_MONTH": "164.86",
+    "LINR": "0.996389993"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "WT",
+    "SITE": "CJ",
+    "OPER": "TEST",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "541.01",
+    "VALID_MONTH": "289.51",
+    "LINR": "0.94241871"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "WT",
+    "SITE": "CJ",
+    "OPER": "WFBI",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "538.82",
+    "VALID_MONTH": "25.56",
+    "LINR": "0.986327785"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "WT",
+    "SITE": "WX",
+    "OPER": "EPM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "508.56",
+    "VALID_MONTH": "317.78",
+    "LINR": "0.926261938"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "WT",
+    "SITE": "WX",
+    "OPER": "TEST",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "588.73",
+    "VALID_MONTH": "333.15",
+    "LINR": "0.91993421"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "WT",
+    "SITE": "WX",
+    "OPER": "WFBI",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "369.25",
+    "VALID_MONTH": "305.89",
+    "LINR": "0.987679954"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "B/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "41.26",
+    "VALID_MONTH": "39.59",
+    "LINR": "0.922373936"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "WEC",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "535.74",
+    "VALID_MONTH": "46.13",
+    "LINR": "0.92932088"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "WSD",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "316.54",
+    "VALID_MONTH": "201.54",
+    "LINR": "0.999615905"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "D/A",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "493.5",
+    "VALID_MONTH": "107.45",
+    "LINR": "0.981347054"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "FCB",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "287.67",
+    "VALID_MONTH": "206.7",
+    "LINR": "0.90202967"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "W/B",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "12.74",
+    "VALID_MONTH": "0.67",
+    "LINR": "0.900961947"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "M/D",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "323.43",
+    "VALID_MONTH": "79.78",
+    "LINR": "0.902272904"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "SBM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "194.71",
+    "VALID_MONTH": "127.45",
+    "LINR": "0.998216668"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "S/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "128.34",
+    "VALID_MONTH": "30.74",
+    "LINR": "0.949436936"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "B/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "569.37",
+    "VALID_MONTH": "80.99",
+    "LINR": "0.948575991"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "WEC",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "246.44",
+    "VALID_MONTH": "45.69",
+    "LINR": "0.948823464"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "WSD",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "548.32",
+    "VALID_MONTH": "150.53",
+    "LINR": "0.936352366"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "D/A",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "633.82",
+    "VALID_MONTH": "560.18",
+    "LINR": "0.91243069"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "FCB",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "141.65",
+    "VALID_MONTH": "26.11",
+    "LINR": "0.900415564"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "W/B",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "743.04",
+    "VALID_MONTH": "573.76",
+    "LINR": "0.947746375"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "M/D",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "207.54",
+    "VALID_MONTH": "99.45",
+    "LINR": "0.961526012"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "SBM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "407.68",
+    "VALID_MONTH": "339.58",
+    "LINR": "0.974174746"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "S/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "87.02",
+    "VALID_MONTH": "35.84",
+    "LINR": "0.976596463"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "B/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "129.29",
+    "VALID_MONTH": "102.85",
+    "LINR": "0.974853838"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "WEC",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "591.27",
+    "VALID_MONTH": "205.16",
+    "LINR": "0.984659801"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "WSD",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "535.89",
+    "VALID_MONTH": "482.12",
+    "LINR": "0.911463279"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "D/A",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "285.86",
+    "VALID_MONTH": "169.35",
+    "LINR": "0.907464148"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "FCB",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "110.17",
+    "VALID_MONTH": "80.71",
+    "LINR": "0.908947904"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "W/B",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "30.71",
+    "VALID_MONTH": "7.62",
+    "LINR": "0.992895484"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "M/D",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "116.41",
+    "VALID_MONTH": "19.32",
+    "LINR": "0.982347285"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "SBM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "719.01",
+    "VALID_MONTH": "20.39",
+    "LINR": "0.964808536"
+  },
+  {
+    "MONTH": "202502",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "S/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "371.83",
+    "VALID_MONTH": "317.66",
+    "LINR": "0.973064156"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "WT",
+    "SITE": "IC",
+    "OPER": "EPM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "160.52",
+    "VALID_MONTH": "48.09",
+    "LINR": "0.920144758"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "WT",
+    "SITE": "IC",
+    "OPER": "TEST",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "248.54",
+    "VALID_MONTH": "104.57",
+    "LINR": "0.966489193"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "WT",
+    "SITE": "IC",
+    "OPER": "WFBI",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "665.51",
+    "VALID_MONTH": "496.58",
+    "LINR": "0.965038189"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "WT",
+    "SITE": "CJ",
+    "OPER": "EPM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "468.7",
+    "VALID_MONTH": "343.91",
+    "LINR": "0.904174006"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "WT",
+    "SITE": "CJ",
+    "OPER": "TEST",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "275.66",
+    "VALID_MONTH": "138.97",
+    "LINR": "0.972558779"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "WT",
+    "SITE": "CJ",
+    "OPER": "WFBI",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "402.96",
+    "VALID_MONTH": "379.2",
+    "LINR": "0.955589614"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "WT",
+    "SITE": "WX",
+    "OPER": "EPM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "14.72",
+    "VALID_MONTH": "0.4",
+    "LINR": "0.94110756"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "WT",
+    "SITE": "WX",
+    "OPER": "TEST",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "176.6",
+    "VALID_MONTH": "29.94",
+    "LINR": "0.95266161"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "WT",
+    "SITE": "WX",
+    "OPER": "WFBI",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "550.84",
+    "VALID_MONTH": "390.43",
+    "LINR": "0.986870845"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "B/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "135.6",
+    "VALID_MONTH": "11.84",
+    "LINR": "0.915203867"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "WEC",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "480.79",
+    "VALID_MONTH": "374.36",
+    "LINR": "0.936459013"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "WSD",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "626.49",
+    "VALID_MONTH": "162.05",
+    "LINR": "0.932131535"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "D/A",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "405.8",
+    "VALID_MONTH": "368.18",
+    "LINR": "0.996727293"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "FCB",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "6.72",
+    "VALID_MONTH": "1.65",
+    "LINR": "0.982927039"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "W/B",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "689.91",
+    "VALID_MONTH": "596.19",
+    "LINR": "0.970392795"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "M/D",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "595.16",
+    "VALID_MONTH": "513.99",
+    "LINR": "0.91437658"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "SBM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "246.98",
+    "VALID_MONTH": "145.78",
+    "LINR": "0.934667682"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "S/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "695.13",
+    "VALID_MONTH": "615.86",
+    "LINR": "0.946735948"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "B/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "184.88",
+    "VALID_MONTH": "56.83",
+    "LINR": "0.997611345"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "WEC",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "314",
+    "VALID_MONTH": "68.07",
+    "LINR": "0.939361928"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "WSD",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "243.25",
+    "VALID_MONTH": "0.25",
+    "LINR": "0.990513868"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "D/A",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "381.3",
+    "VALID_MONTH": "190.3",
+    "LINR": "0.907586346"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "FCB",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "462.45",
+    "VALID_MONTH": "65.62",
+    "LINR": "0.994051543"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "W/B",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "628.87",
+    "VALID_MONTH": "192.19",
+    "LINR": "0.932654552"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "M/D",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "77.73",
+    "VALID_MONTH": "36.22",
+    "LINR": "0.911454738"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "SBM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "735.41",
+    "VALID_MONTH": "173.52",
+    "LINR": "0.923928408"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "S/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "355.99",
+    "VALID_MONTH": "277.95",
+    "LINR": "0.903775596"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "B/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "575.2",
+    "VALID_MONTH": "285.69",
+    "LINR": "0.982442153"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "WEC",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "3.11",
+    "VALID_MONTH": "0.77",
+    "LINR": "0.952833281"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "WSD",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "62.13",
+    "VALID_MONTH": "44.26",
+    "LINR": "0.969939153"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "D/A",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "156.88",
+    "VALID_MONTH": "9.5",
+    "LINR": "0.921569049"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "FCB",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "454.62",
+    "VALID_MONTH": "102.06",
+    "LINR": "0.941391176"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "W/B",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "144.08",
+    "VALID_MONTH": "6.79",
+    "LINR": "0.939806503"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "M/D",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "310.28",
+    "VALID_MONTH": "286.02",
+    "LINR": "0.925434976"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "SBM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "426.36",
+    "VALID_MONTH": "352.3",
+    "LINR": "0.937577387"
+  },
+  {
+    "MONTH": "202503",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "S/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "334.96",
+    "VALID_MONTH": "291.74",
+    "LINR": "0.97469177"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "WT",
+    "SITE": "IC",
+    "OPER": "EPM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "643.15",
+    "VALID_MONTH": "20.68",
+    "LINR": "0.928958811"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "WT",
+    "SITE": "IC",
+    "OPER": "TEST",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "401.2",
+    "VALID_MONTH": "126.36",
+    "LINR": "0.967858712"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "WT",
+    "SITE": "IC",
+    "OPER": "WFBI",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "718.09",
+    "VALID_MONTH": "713.87",
+    "LINR": "0.902903411"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "WT",
+    "SITE": "CJ",
+    "OPER": "EPM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "485.44",
+    "VALID_MONTH": "449.21",
+    "LINR": "0.903733353"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "WT",
+    "SITE": "CJ",
+    "OPER": "TEST",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "513.46",
+    "VALID_MONTH": "462.76",
+    "LINR": "0.972044114"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "WT",
+    "SITE": "CJ",
+    "OPER": "WFBI",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "422.93",
+    "VALID_MONTH": "408.82",
+    "LINR": "0.997283718"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "WT",
+    "SITE": "WX",
+    "OPER": "EPM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "226.99",
+    "VALID_MONTH": "174.74",
+    "LINR": "0.905829024"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "WT",
+    "SITE": "WX",
+    "OPER": "TEST",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "202.45",
+    "VALID_MONTH": "178.98",
+    "LINR": "0.99114397"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "WT",
+    "SITE": "WX",
+    "OPER": "WFBI",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "371.69",
+    "VALID_MONTH": "142.35",
+    "LINR": "0.970602189"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "B/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "275.11",
+    "VALID_MONTH": "268.76",
+    "LINR": "0.906022279"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "WEC",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "370.12",
+    "VALID_MONTH": "346.54",
+    "LINR": "0.985215474"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "WSD",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "433.88",
+    "VALID_MONTH": "15.06",
+    "LINR": "0.910482614"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "D/A",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "420",
+    "VALID_MONTH": "84.14",
+    "LINR": "0.919897458"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "FCB",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "741.61",
+    "VALID_MONTH": "671.9",
+    "LINR": "0.956125012"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "W/B",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "361.51",
+    "VALID_MONTH": "247.39",
+    "LINR": "0.944948333"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "M/D",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "354.76",
+    "VALID_MONTH": "160.75",
+    "LINR": "0.931334685"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "SBM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "586.27",
+    "VALID_MONTH": "126.7",
+    "LINR": "0.989858071"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "S/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "708.18",
+    "VALID_MONTH": "473.5",
+    "LINR": "0.954007546"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "B/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "164.9",
+    "VALID_MONTH": "125.37",
+    "LINR": "0.92747904"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "WEC",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "572.04",
+    "VALID_MONTH": "321.33",
+    "LINR": "0.917571071"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "WSD",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "63.72",
+    "VALID_MONTH": "16.78",
+    "LINR": "0.953558046"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "D/A",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "421.81",
+    "VALID_MONTH": "289.28",
+    "LINR": "0.938351905"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "FCB",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "70.9",
+    "VALID_MONTH": "3.45",
+    "LINR": "0.940148578"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "W/B",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "367.99",
+    "VALID_MONTH": "183.25",
+    "LINR": "0.957402269"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "M/D",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "270.31",
+    "VALID_MONTH": "105.17",
+    "LINR": "0.948556857"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "SBM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "59",
+    "VALID_MONTH": "26.23",
+    "LINR": "0.977008549"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "S/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "302.18",
+    "VALID_MONTH": "212.47",
+    "LINR": "0.979722444"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "B/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "469.5",
+    "VALID_MONTH": "223.07",
+    "LINR": "0.994505737"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "WEC",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "499.38",
+    "VALID_MONTH": "370.62",
+    "LINR": "0.907218455"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "WSD",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "608.96",
+    "VALID_MONTH": "472.93",
+    "LINR": "0.90808293"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "D/A",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "435.69",
+    "VALID_MONTH": "99.21",
+    "LINR": "0.915146738"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "FCB",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "355.45",
+    "VALID_MONTH": "181.92",
+    "LINR": "0.970221274"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "W/B",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "195.42",
+    "VALID_MONTH": "151.68",
+    "LINR": "0.975229667"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "M/D",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "698.08",
+    "VALID_MONTH": "450.85",
+    "LINR": "0.989410776"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "SBM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "574.22",
+    "VALID_MONTH": "450.66",
+    "LINR": "0.918767133"
+  },
+  {
+    "MONTH": "202504",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "S/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "94.98",
+    "VALID_MONTH": "23.82",
+    "LINR": "0.945698281"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "WT",
+    "SITE": "IC",
+    "OPER": "EPM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "204.29",
+    "VALID_MONTH": "167.73",
+    "LINR": "0.914065367"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "WT",
+    "SITE": "IC",
+    "OPER": "TEST",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "283.34",
+    "VALID_MONTH": "28.08",
+    "LINR": "0.947426284"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "WT",
+    "SITE": "IC",
+    "OPER": "WFBI",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "316.57",
+    "VALID_MONTH": "47.12",
+    "LINR": "0.954696861"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "WT",
+    "SITE": "CJ",
+    "OPER": "EPM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "333.05",
+    "VALID_MONTH": "210.24",
+    "LINR": "0.934944992"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "WT",
+    "SITE": "CJ",
+    "OPER": "TEST",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "164.5",
+    "VALID_MONTH": "99.18",
+    "LINR": "0.955417011"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "WT",
+    "SITE": "CJ",
+    "OPER": "WFBI",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "529.76",
+    "VALID_MONTH": "286.72",
+    "LINR": "0.936559948"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "WT",
+    "SITE": "WX",
+    "OPER": "EPM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "610.97",
+    "VALID_MONTH": "504.34",
+    "LINR": "0.951460396"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "WT",
+    "SITE": "WX",
+    "OPER": "TEST",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "604.87",
+    "VALID_MONTH": "579.91",
+    "LINR": "0.931730664"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "WT",
+    "SITE": "WX",
+    "OPER": "WFBI",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "78.01",
+    "VALID_MONTH": "68.75",
+    "LINR": "0.955941289"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "B/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "291.6",
+    "VALID_MONTH": "239.7",
+    "LINR": "0.988161354"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "WEC",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "335.69",
+    "VALID_MONTH": "314.59",
+    "LINR": "0.929034993"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "WSD",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "703.5",
+    "VALID_MONTH": "411.62",
+    "LINR": "0.922894498"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "D/A",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "63.78",
+    "VALID_MONTH": "28.45",
+    "LINR": "0.90341954"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "FCB",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "357.17",
+    "VALID_MONTH": "184.8",
+    "LINR": "0.900383616"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "W/B",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "2.26",
+    "VALID_MONTH": "1.19",
+    "LINR": "0.901071727"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "M/D",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "715.85",
+    "VALID_MONTH": "637.49",
+    "LINR": "0.929358943"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "SBM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "610.32",
+    "VALID_MONTH": "430.17",
+    "LINR": "0.905653165"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "S/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "369.36",
+    "VALID_MONTH": "279.77",
+    "LINR": "0.928022024"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "B/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "550.8",
+    "VALID_MONTH": "428.05",
+    "LINR": "0.93689556"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "WEC",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "291.8",
+    "VALID_MONTH": "282.29",
+    "LINR": "0.94548005"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "WSD",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "578.58",
+    "VALID_MONTH": "7.53",
+    "LINR": "0.91961075"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "D/A",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "650.08",
+    "VALID_MONTH": "529.62",
+    "LINR": "0.942562183"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "FCB",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "720.37",
+    "VALID_MONTH": "680",
+    "LINR": "0.915355281"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "W/B",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "244.6",
+    "VALID_MONTH": "207.55",
+    "LINR": "0.937323358"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "M/D",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "671.52",
+    "VALID_MONTH": "490.26",
+    "LINR": "0.90699206"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "SBM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "646.75",
+    "VALID_MONTH": "150.59",
+    "LINR": "0.941692915"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "S/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "405.75",
+    "VALID_MONTH": "363.34",
+    "LINR": "0.929017576"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "B/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "368.64",
+    "VALID_MONTH": "64.65",
+    "LINR": "0.90833087"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "WEC",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "353.4",
+    "VALID_MONTH": "248.63",
+    "LINR": "0.973784248"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "WSD",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "151.79",
+    "VALID_MONTH": "71.01",
+    "LINR": "0.955994792"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "D/A",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "295.94",
+    "VALID_MONTH": "27.05",
+    "LINR": "0.99774546"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "FCB",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "219.26",
+    "VALID_MONTH": "164.59",
+    "LINR": "0.93309664"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "W/B",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "221.73",
+    "VALID_MONTH": "103.4",
+    "LINR": "0.92965366"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "M/D",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "650.65",
+    "VALID_MONTH": "246.18",
+    "LINR": "0.999437311"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "SBM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "75.57",
+    "VALID_MONTH": "65.15",
+    "LINR": "0.961373674"
+  },
+  {
+    "MONTH": "202505",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "S/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "366.98",
+    "VALID_MONTH": "194.51",
+    "LINR": "0.91823435"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "WT",
+    "SITE": "IC",
+    "OPER": "EPM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "320.21",
+    "VALID_MONTH": "302.87",
+    "LINR": "0.919026458"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "WT",
+    "SITE": "IC",
+    "OPER": "TEST",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "591.24",
+    "VALID_MONTH": "353.08",
+    "LINR": "0.955997431"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "WT",
+    "SITE": "IC",
+    "OPER": "WFBI",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "528.55",
+    "VALID_MONTH": "19.12",
+    "LINR": "0.960540118"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "WT",
+    "SITE": "CJ",
+    "OPER": "EPM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "210.64",
+    "VALID_MONTH": "95.96",
+    "LINR": "0.982902478"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "WT",
+    "SITE": "CJ",
+    "OPER": "TEST",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "284.36",
+    "VALID_MONTH": "268.1",
+    "LINR": "0.963357231"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "WT",
+    "SITE": "CJ",
+    "OPER": "WFBI",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "321.53",
+    "VALID_MONTH": "42.7",
+    "LINR": "0.901406689"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "WT",
+    "SITE": "WX",
+    "OPER": "EPM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "600.6",
+    "VALID_MONTH": "352.24",
+    "LINR": "0.917297107"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "WT",
+    "SITE": "WX",
+    "OPER": "TEST",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "360.37",
+    "VALID_MONTH": "3.92",
+    "LINR": "0.993691614"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "WT",
+    "SITE": "WX",
+    "OPER": "WFBI",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "41.85",
+    "VALID_MONTH": "7.09",
+    "LINR": "0.945295945"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "B/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "551.67",
+    "VALID_MONTH": "44.33",
+    "LINR": "0.917388228"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "WEC",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "304.73",
+    "VALID_MONTH": "64.58",
+    "LINR": "0.95535078"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "WSD",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "691.35",
+    "VALID_MONTH": "124.33",
+    "LINR": "0.991095274"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "D/A",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "419.42",
+    "VALID_MONTH": "319.74",
+    "LINR": "0.944627876"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "FCB",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "218.63",
+    "VALID_MONTH": "193.76",
+    "LINR": "0.980130297"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "W/B",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "459.8",
+    "VALID_MONTH": "368.22",
+    "LINR": "0.981577963"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "M/D",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "739.98",
+    "VALID_MONTH": "205.39",
+    "LINR": "0.925521172"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "SBM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "415.13",
+    "VALID_MONTH": "75.36",
+    "LINR": "0.979756869"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "S/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "80.56",
+    "VALID_MONTH": "25.1",
+    "LINR": "0.913375197"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "B/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "588.95",
+    "VALID_MONTH": "351.31",
+    "LINR": "0.90545851"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "WEC",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "468.63",
+    "VALID_MONTH": "379.69",
+    "LINR": "0.990194816"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "WSD",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "688.9",
+    "VALID_MONTH": "520",
+    "LINR": "0.931053957"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "D/A",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "215.05",
+    "VALID_MONTH": "94.92",
+    "LINR": "0.925071922"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "FCB",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "555.38",
+    "VALID_MONTH": "184.57",
+    "LINR": "0.986097571"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "W/B",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "64.9",
+    "VALID_MONTH": "19.3",
+    "LINR": "0.935385673"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "M/D",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "667.18",
+    "VALID_MONTH": "98.22",
+    "LINR": "0.916936286"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "SBM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "252.09",
+    "VALID_MONTH": "188.23",
+    "LINR": "0.996616706"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "S/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "425.36",
+    "VALID_MONTH": "295.04",
+    "LINR": "0.967833471"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "B/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "389",
+    "VALID_MONTH": "115.64",
+    "LINR": "0.981085016"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "WEC",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "434.51",
+    "VALID_MONTH": "288.01",
+    "LINR": "0.967170631"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "WSD",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "260.46",
+    "VALID_MONTH": "67.53",
+    "LINR": "0.972355413"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "D/A",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "507.41",
+    "VALID_MONTH": "150.52",
+    "LINR": "0.952026246"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "FCB",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "716.18",
+    "VALID_MONTH": "195.14",
+    "LINR": "0.976085094"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "W/B",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "741.8",
+    "VALID_MONTH": "256.25",
+    "LINR": "0.996163424"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "M/D",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "678.25",
+    "VALID_MONTH": "117.7",
+    "LINR": "0.977674281"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "SBM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "501",
+    "VALID_MONTH": "476.18",
+    "LINR": "0.944008181"
+  },
+  {
+    "MONTH": "202506",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "S/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "509.49",
+    "VALID_MONTH": "325.98",
+    "LINR": "0.909056367"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "WT",
+    "SITE": "IC",
+    "OPER": "EPM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "297.36",
+    "VALID_MONTH": "283.14",
+    "LINR": "0.936944592"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "WT",
+    "SITE": "IC",
+    "OPER": "TEST",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "543.52",
+    "VALID_MONTH": "56.49",
+    "LINR": "0.970720214"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "WT",
+    "SITE": "IC",
+    "OPER": "WFBI",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "581.66",
+    "VALID_MONTH": "219.98",
+    "LINR": "0.959198366"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "WT",
+    "SITE": "CJ",
+    "OPER": "EPM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "501.5",
+    "VALID_MONTH": "235.07",
+    "LINR": "0.999736332"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "WT",
+    "SITE": "CJ",
+    "OPER": "TEST",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "390.85",
+    "VALID_MONTH": "252.07",
+    "LINR": "0.901629341"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "WT",
+    "SITE": "CJ",
+    "OPER": "WFBI",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "198.4",
+    "VALID_MONTH": "100.49",
+    "LINR": "0.910106872"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "WT",
+    "SITE": "WX",
+    "OPER": "EPM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "503.79",
+    "VALID_MONTH": "338.66",
+    "LINR": "0.919199109"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "WT",
+    "SITE": "WX",
+    "OPER": "TEST",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "291.34",
+    "VALID_MONTH": "161.18",
+    "LINR": "0.949149235"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "WT",
+    "SITE": "WX",
+    "OPER": "WFBI",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "113.02",
+    "VALID_MONTH": "98.13",
+    "LINR": "0.903665912"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "B/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "535.25",
+    "VALID_MONTH": "428.79",
+    "LINR": "0.916313312"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "WEC",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "386.52",
+    "VALID_MONTH": "114.91",
+    "LINR": "0.91869003"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "WSD",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "129.59",
+    "VALID_MONTH": "32.2",
+    "LINR": "0.905437306"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "D/A",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "610.11",
+    "VALID_MONTH": "7.08",
+    "LINR": "0.920477571"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "FCB",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "676.82",
+    "VALID_MONTH": "450.63",
+    "LINR": "0.951265608"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "W/B",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "699.46",
+    "VALID_MONTH": "55.83",
+    "LINR": "0.936872485"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "M/D",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "302.3",
+    "VALID_MONTH": "76.85",
+    "LINR": "0.931637631"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "SBM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "334.63",
+    "VALID_MONTH": "88.6",
+    "LINR": "0.913412129"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "S/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "471.36",
+    "VALID_MONTH": "114.44",
+    "LINR": "0.900394132"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "B/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "25.02",
+    "VALID_MONTH": "24.73",
+    "LINR": "0.907243139"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "WEC",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "630.4",
+    "VALID_MONTH": "196.99",
+    "LINR": "0.929786573"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "WSD",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "73.13",
+    "VALID_MONTH": "32.34",
+    "LINR": "0.951044854"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "D/A",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "489.26",
+    "VALID_MONTH": "269.14",
+    "LINR": "0.941698733"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "FCB",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "593.26",
+    "VALID_MONTH": "290.74",
+    "LINR": "0.938569172"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "W/B",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "75.13",
+    "VALID_MONTH": "46.55",
+    "LINR": "0.92976378"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "M/D",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "14.27",
+    "VALID_MONTH": "10.7",
+    "LINR": "0.95955706"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "SBM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "508.25",
+    "VALID_MONTH": "272.03",
+    "LINR": "0.931701383"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "S/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "284.42",
+    "VALID_MONTH": "171.75",
+    "LINR": "0.952962173"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "B/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "212.4",
+    "VALID_MONTH": "8.99",
+    "LINR": "0.909802113"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "WEC",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "103.27",
+    "VALID_MONTH": "88.15",
+    "LINR": "0.923581365"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "WSD",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "187.8",
+    "VALID_MONTH": "139.6",
+    "LINR": "0.90276951"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "D/A",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "185.16",
+    "VALID_MONTH": "16.62",
+    "LINR": "0.955889673"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "FCB",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "52.23",
+    "VALID_MONTH": "2.56",
+    "LINR": "0.965053284"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "W/B",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "457.09",
+    "VALID_MONTH": "23.24",
+    "LINR": "0.965847704"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "M/D",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "411.67",
+    "VALID_MONTH": "255.87",
+    "LINR": "0.998279495"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "SBM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "424.82",
+    "VALID_MONTH": "183.22",
+    "LINR": "0.927016719"
+  },
+  {
+    "MONTH": "202507",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "S/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "77.26",
+    "VALID_MONTH": "12.34",
+    "LINR": "0.953676705"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "WT",
+    "SITE": "IC",
+    "OPER": "EPM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "223.26",
+    "VALID_MONTH": "71.14",
+    "LINR": "0.915743289"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "WT",
+    "SITE": "IC",
+    "OPER": "TEST",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "520.05",
+    "VALID_MONTH": "423.79",
+    "LINR": "0.98656043"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "WT",
+    "SITE": "IC",
+    "OPER": "WFBI",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "656.75",
+    "VALID_MONTH": "403.52",
+    "LINR": "0.948682634"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "WT",
+    "SITE": "CJ",
+    "OPER": "EPM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "682.1",
+    "VALID_MONTH": "78.79",
+    "LINR": "0.904344012"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "WT",
+    "SITE": "CJ",
+    "OPER": "TEST",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "493.76",
+    "VALID_MONTH": "202.39",
+    "LINR": "0.973038466"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "WT",
+    "SITE": "CJ",
+    "OPER": "WFBI",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "9.31",
+    "VALID_MONTH": "1.64",
+    "LINR": "0.987739907"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "WT",
+    "SITE": "WX",
+    "OPER": "EPM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "642.84",
+    "VALID_MONTH": "186.59",
+    "LINR": "0.956394201"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "WT",
+    "SITE": "WX",
+    "OPER": "TEST",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "372.99",
+    "VALID_MONTH": "94.57",
+    "LINR": "0.921460393"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "WT",
+    "SITE": "WX",
+    "OPER": "WFBI",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "471.12",
+    "VALID_MONTH": "276.06",
+    "LINR": "0.996877884"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "B/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "76.52",
+    "VALID_MONTH": "27.87",
+    "LINR": "0.979585222"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "WEC",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "424.24",
+    "VALID_MONTH": "141.19",
+    "LINR": "0.961608304"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "WSD",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "475.27",
+    "VALID_MONTH": "352.44",
+    "LINR": "0.907446528"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "D/A",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "436.73",
+    "VALID_MONTH": "365.85",
+    "LINR": "0.943093329"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "FCB",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "255.53",
+    "VALID_MONTH": "66.17",
+    "LINR": "0.949222241"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "W/B",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "587.66",
+    "VALID_MONTH": "123.7",
+    "LINR": "0.957439577"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "M/D",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "742.22",
+    "VALID_MONTH": "26.04",
+    "LINR": "0.955307529"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "SBM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "703.69",
+    "VALID_MONTH": "590.7",
+    "LINR": "0.924688705"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "S/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "534.22",
+    "VALID_MONTH": "98.64",
+    "LINR": "0.928714794"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "B/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "704.19",
+    "VALID_MONTH": "68.87",
+    "LINR": "0.953512923"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "WEC",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "696.24",
+    "VALID_MONTH": "504.26",
+    "LINR": "0.985635016"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "WSD",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "105.64",
+    "VALID_MONTH": "27.83",
+    "LINR": "0.906195102"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "D/A",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "262.76",
+    "VALID_MONTH": "236.64",
+    "LINR": "0.980814793"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "FCB",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "201.86",
+    "VALID_MONTH": "49.14",
+    "LINR": "0.94321968"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "W/B",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "256.5",
+    "VALID_MONTH": "171.53",
+    "LINR": "0.987265008"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "M/D",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "0.95",
+    "VALID_MONTH": "0.35",
+    "LINR": "0.949699515"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "SBM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "352.68",
+    "VALID_MONTH": "64.2",
+    "LINR": "0.917517265"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "S/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "573.25",
+    "VALID_MONTH": "541.64",
+    "LINR": "0.910007034"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "B/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "182.48",
+    "VALID_MONTH": "178.07",
+    "LINR": "0.929495241"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "WEC",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "257.65",
+    "VALID_MONTH": "15.83",
+    "LINR": "0.973323657"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "WSD",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "743.1",
+    "VALID_MONTH": "434.08",
+    "LINR": "0.949922615"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "D/A",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "498.98",
+    "VALID_MONTH": "427.05",
+    "LINR": "0.963400661"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "FCB",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "114.19",
+    "VALID_MONTH": "32.58",
+    "LINR": "0.913978037"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "W/B",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "141.57",
+    "VALID_MONTH": "51.36",
+    "LINR": "0.90383679"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "M/D",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "472.56",
+    "VALID_MONTH": "120.54",
+    "LINR": "0.932265662"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "SBM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "358.99",
+    "VALID_MONTH": "86.63",
+    "LINR": "0.996469284"
+  },
+  {
+    "MONTH": "202508",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "S/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "384.31",
+    "VALID_MONTH": "136.58",
+    "LINR": "0.981628549"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "WT",
+    "SITE": "IC",
+    "OPER": "EPM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "578.5",
+    "VALID_MONTH": "28.4",
+    "LINR": "0.939064295"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "WT",
+    "SITE": "IC",
+    "OPER": "TEST",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "133.8",
+    "VALID_MONTH": "3.79",
+    "LINR": "0.976607747"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "WT",
+    "SITE": "IC",
+    "OPER": "WFBI",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "199.09",
+    "VALID_MONTH": "88.25",
+    "LINR": "0.943904875"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "WT",
+    "SITE": "CJ",
+    "OPER": "EPM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "214.72",
+    "VALID_MONTH": "171",
+    "LINR": "0.987089126"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "WT",
+    "SITE": "CJ",
+    "OPER": "TEST",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "43.15",
+    "VALID_MONTH": "25.64",
+    "LINR": "0.983935136"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "WT",
+    "SITE": "CJ",
+    "OPER": "WFBI",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "285.66",
+    "VALID_MONTH": "128.63",
+    "LINR": "0.964223836"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "WT",
+    "SITE": "WX",
+    "OPER": "EPM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "477.76",
+    "VALID_MONTH": "167.22",
+    "LINR": "0.954900104"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "WT",
+    "SITE": "WX",
+    "OPER": "TEST",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "320.13",
+    "VALID_MONTH": "78.66",
+    "LINR": "0.931807443"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "WT",
+    "SITE": "WX",
+    "OPER": "WFBI",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "462.18",
+    "VALID_MONTH": "408.14",
+    "LINR": "0.986341037"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "B/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "340.63",
+    "VALID_MONTH": "127.94",
+    "LINR": "0.927959267"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "WEC",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "199.79",
+    "VALID_MONTH": "148.96",
+    "LINR": "0.92631492"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "WSD",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "1.34",
+    "VALID_MONTH": "0.83",
+    "LINR": "0.946940111"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "D/A",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "384.08",
+    "VALID_MONTH": "28.67",
+    "LINR": "0.90266524"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "FCB",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "485.4",
+    "VALID_MONTH": "124.43",
+    "LINR": "0.918274325"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "W/B",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "662.36",
+    "VALID_MONTH": "247.36",
+    "LINR": "0.932247923"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "M/D",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "633.85",
+    "VALID_MONTH": "217.09",
+    "LINR": "0.91383209"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "SBM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "511.64",
+    "VALID_MONTH": "434.16",
+    "LINR": "0.929873605"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "PKG",
+    "SITE": "IC",
+    "OPER": "S/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "165.8",
+    "VALID_MONTH": "71.36",
+    "LINR": "0.93771712"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "B/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "572.15",
+    "VALID_MONTH": "115.91",
+    "LINR": "0.901137949"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "WEC",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "84.24",
+    "VALID_MONTH": "30.74",
+    "LINR": "0.957766774"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "WSD",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "186.96",
+    "VALID_MONTH": "170.85",
+    "LINR": "0.953888721"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "D/A",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "384.99",
+    "VALID_MONTH": "231.1",
+    "LINR": "0.971174264"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "FCB",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "307.11",
+    "VALID_MONTH": "229.71",
+    "LINR": "0.965905602"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "W/B",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "632.7",
+    "VALID_MONTH": "193.71",
+    "LINR": "0.945610229"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "M/D",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "738.86",
+    "VALID_MONTH": "525.63",
+    "LINR": "0.916603267"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "SBM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "3.56",
+    "VALID_MONTH": "1.59",
+    "LINR": "0.987676058"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "PKG",
+    "SITE": "CJ",
+    "OPER": "S/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "727.19",
+    "VALID_MONTH": "118.8",
+    "LINR": "0.955953508"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "B/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "190.84",
+    "VALID_MONTH": "120.54",
+    "LINR": "0.934421972"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "WEC",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "532.95",
+    "VALID_MONTH": "364.63",
+    "LINR": "0.915729952"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "WSD",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "180.03",
+    "VALID_MONTH": "87.65",
+    "LINR": "0.902620798"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "D/A",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "545.9",
+    "VALID_MONTH": "416.43",
+    "LINR": "0.919745765"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "FCB",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "117.85",
+    "VALID_MONTH": "91.45",
+    "LINR": "0.976838965"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "W/B",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "144.7",
+    "VALID_MONTH": "10.73",
+    "LINR": "0.946476485"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "M/D",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "715.54",
+    "VALID_MONTH": "656.09",
+    "LINR": "0.924384646"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "SBM",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "214.58",
+    "VALID_MONTH": "1.08",
+    "LINR": "0.986309884"
+  },
+  {
+    "MONTH": "202509",
+    "AREA": "PKG",
+    "SITE": "CQ",
+    "OPER": "S/G",
+    "TWH_MONTH": "744",
+    "OPER_MONTH": "256.81",
+    "VALID_MONTH": "88.36",
+    "LINR": "0.913929392"
+  }
+]

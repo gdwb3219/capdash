@@ -45,3 +45,53 @@ export function judgeByTarget(avg3, avg6, target) {
   if (below3 || below6) return { color: "yellow", label: "주의" };
   return { color: "green", label: "양호" };
 }
+
+export function avgN(arr, key, n) {
+  const vals = arr
+    .slice(0, n)
+    .map((x) => x[key])
+    .filter((v) => v != null);
+  if (!vals.length) return null;
+  return vals.reduce((s, v) => s + v, 0) / vals.length;
+}
+
+// ######################################################################
+// ## test 함수 ##########################################################
+/**
+ * DB에서 가져온 원본 데이터를 `MONTH` 기준으로 내림차순 정렬 (최신순)
+ * @param {Array} monthlyData - 특정 OPER의 월별 데이터 배열
+ * @returns {Array} - 정렬된 배열
+ */
+export const sortDataByMonthDesc = (monthlyData) => {
+  // 원본 배열 수정을 피하기 위해 .slice() 사용
+  return monthlyData.slice().sort((a, b) => b.MONTH.localeCompare(a.MONTH));
+};
+
+/**
+ * 정렬된 배열에서 최근값을 가져옵니다.
+ * @param {Array} sortedMonthlyData - 정렬된 월별 데이터
+ * @param {string} factorName - 팩터 키 (예: 'OPER_MONTH')
+ * @returns {number}
+ */
+export const getLatestValue = (sortedMonthlyData, factorName) => {
+  if (!sortedMonthlyData || sortedMonthlyData.length === 0) return 0;
+  return parseFloat(sortedMonthlyData[0][factorName]) || 0;
+};
+
+/**
+ * 정렬된 배열에서 n개월 평균값을 계산합니다.
+ * @param {Array} sortedMonthlyData - 정렬된 월별 데이터
+ * @param {string} factorName - 팩터 키
+ * @param {number} months - 평균을 계산할 개월 수 (예: 3, 6)
+ * @returns {number}
+ */
+export const getAverage = (sortedMonthlyData, factorName, months) => {
+  const dataSlice = sortedMonthlyData.slice(0, months);
+  if (dataSlice.length === 0) return 0;
+
+  const sum = dataSlice.reduce((acc, item) => {
+    return acc + (parseFloat(item[factorName]) || 0);
+  }, 0);
+
+  return sum / dataSlice.length;
+};
