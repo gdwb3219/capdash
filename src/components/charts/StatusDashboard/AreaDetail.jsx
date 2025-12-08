@@ -1,10 +1,14 @@
 import React, { useState, useMemo } from "react";
 import TrafficLight from "./TrafficLight";
-import { judgeByTarget } from "./Utilities";
+import { avgN, judgeByTarget } from "./Utilities";
 import GridTable from "./GridTable";
 import "../../../styles/components/charts/StatusDashboard/FactoryDashboard.css";
+import operdata from "../../../data/OPER_DATA.json";
+import OPER_FACTOR_MAP from "../../../data/operConfig";
 
 export default function AreaDetail({ area, targets, actuals, onBack }) {
+  // 필터 상태 관리
+  const [statusFilter, setStatusFilter] = useState("all"); // 'all', 'red', 'yellow', 'green'
   // 안전한 필드 접근 헬퍼 - 다양한 케이스(대문자/소문자)를 모두 지원
   const field = (row, key) =>
     row?.[key] ?? row?.[key.toUpperCase()] ?? row?.[key.toLowerCase()];
@@ -12,6 +16,7 @@ export default function AreaDetail({ area, targets, actuals, onBack }) {
   console.log("actuals, target", actuals, targets);
 
   // siteOperGroups: [{ Site, Oper, groupRows, monthlyAggregates, targetRow, latest, avg3, avg6 }]
+
   const siteOperGroups = useMemo(() => {
     if (!actuals || !actuals.length) return [];
 
@@ -66,15 +71,6 @@ export default function AreaDetail({ area, targets, actuals, onBack }) {
       });
 
       const latest = ratios[0] ?? { oper: null, nowip: null, loss: null };
-
-      const avgN = (arr, key, n) => {
-        const vals = arr
-          .slice(0, n)
-          .map((x) => x[key])
-          .filter((v) => v != null);
-        if (!vals.length) return null;
-        return vals.reduce((s, v) => s + v, 0) / vals.length;
-      };
 
       const avg3 = {
         oper: avgN(ratios, "oper", 3),

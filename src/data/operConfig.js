@@ -1,0 +1,86 @@
+export const OPER_FACTOR_MAP = {
+  DEFAULT: ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+  WT: {
+    IC: {
+      EPM: ["TWH_MONTH", "OPER_MONTH", "LINR"],
+      WFBI: ["TWH_MONTH", "OPER_MONTH", "VALID_MONTH", "LINR"],
+      TEST: ["TWH_MONTH", "OPER_MONTH", "VALID_MONTH", "LINR"],
+    },
+    CJ: {
+      EPM: ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      WFBI: ["TWH_MONTH", "OPER_MONTH", "VALID_MONTH", "LINR"],
+      TEST: ["TWH_MONTH", "LINR"],
+    },
+    WX: {
+      EPM: ["TWH_MONTH", "VALID_MONTH", "LINR"],
+      WFBI: ["TWH_MONTH", "LINR"],
+      TEST: ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+    },
+  },
+  PKG: {
+    IC: {
+      "B/G": ["OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      WSD: ["TWH_MONTH", "VALID_MONTH", "LINR"],
+      WEC: ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      "D/A": ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      FCB: ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      "W/B": ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      "C-M/D": ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      "M/D": ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      "V-M/D": ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      LMK: ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      "GREEN M/K": ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      "UNIT M/K": ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      SBM: ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      "S/G": ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+    },
+    CJ: {
+      "B/G": ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      WSD: ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      WEC: ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      "D/A": ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      FCB: ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      "W/B": ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      "C-M/D": ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      "M/D": ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      "V-M/D": ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      LMK: ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      "GREEN M/K": ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      "UNIT M/K": ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      SBM: ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      "S/G": ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+    },
+    CQ: {
+      "B/G": ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      WSD: ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      WEC: ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      "D/A": ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      FCB: ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      "W/B": ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      "C-M/D": ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      "M/D": ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      "V-M/D": ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      LMK: ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      "GREEN M/K": ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      "UNIT M/K": ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      SBM: ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      "S/G": ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+    },
+  },
+  PKT: {
+    IC: {
+      TEST: ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      TDBI: ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+    },
+    CJ: {
+      TEST: ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      TDBI: ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+    },
+    CQ: {
+      TEST: ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+      TDBI: ["TWH_MONTH", "OPER_MONTH", "NOWIP_MONTH", "LINR"],
+    },
+  },
+};
+
+export default OPER_FACTOR_MAP;
