@@ -129,7 +129,7 @@ export default function IssueFormModal({
               value={category}
               onChange={(e) => setCategory(e.target.value)}
             >
-              <option value='설비'>설비</option>
+              <option value='설비'>장비</option>
               <option value='인력'>인력</option>
               <option value='자재'>자재</option>
               <option value='기타'>기타</option>
